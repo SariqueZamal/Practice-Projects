@@ -32,3 +32,11 @@ li a {
   text-decoration: none;
 }
 
+
+li:hover {
+  background-color: #616161
+}
+
+img {
+  width: 100%;
+}
