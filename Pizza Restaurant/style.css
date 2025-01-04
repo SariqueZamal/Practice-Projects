@@ -37,6 +37,11 @@ li:hover {
   background-color: #616161
 }
 
-img {
-  width: 100%;
+#home {
+  background-image: url(./Image/Pizza.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 119px;
+  color: rgb(11, 11, 11);
+  height: 510px;
 }
