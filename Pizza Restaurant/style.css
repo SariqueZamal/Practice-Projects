@@ -1,7 +1,7 @@
 * {
   box-sizing: border-box;
   margin: 0;
-  font-family: "Amatic SC", sans-serif;
+  font-family: "Amatic SC", "sans-serif";
 }
 
 nav {
@@ -61,4 +61,13 @@ li:hover {
   color: white;
   margin-left: 41%;
   margin-bottom: 95px;
+}
+
+#home span{
+  margin-left: 13px;
+  text-align: left;
+  background-color: black;
+  color: white;
+  font-size: 17px;
+  padding: 9px;
 }
