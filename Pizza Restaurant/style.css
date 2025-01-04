@@ -45,3 +45,20 @@ li:hover {
   color: rgb(11, 11, 11);
   height: 510px;
 }
+
+#home h1{
+  font-size: 69px;
+  font-weight: 90;
+  margin-bottom: 55px;
+  text-align: center;
+}
+
+#home button{
+  height: 45px;
+  font-size: 21px;
+  border: none;
+  background-color: black;
+  color: white;
+  margin-left: 41%;
+  margin-bottom: 95px;
+}
