@@ -78,3 +78,11 @@ li:hover {
   background-color: black;
   padding-top: 75px;
 }
+
+#menu h1{
+  font-size: 49px;
+  font-weight: lighter;
+  margin-bottom: 55px;
+  text-align: center;
+  color: white;
+}
