@@ -93,3 +93,17 @@ li:hover {
   border: 1px solid grey;
   width: auto;
 }
+
+#mnu button {
+  min-width: 33.33%;
+  float: left;
+  height: 45px;
+  background-color: black;
+  color: white;
+  border: none;
+  font-size: 23px;
+}
+
+#mnu button:hover {
+  background-color: rgb(141, 80, 80);
+}
