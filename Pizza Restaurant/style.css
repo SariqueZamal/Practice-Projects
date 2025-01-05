@@ -13,8 +13,8 @@ nav {
   opacity: 0.6;
 }
 
-nav:hover{
-    opacity: 1;
+nav:hover {
+  opacity: 1;
 }
 
 li {
@@ -32,9 +32,8 @@ li a {
   text-decoration: none;
 }
 
-
 li:hover {
-  background-color: #616161
+  background-color: #616161;
 }
 
 #home {
@@ -46,14 +45,14 @@ li:hover {
   height: 510px;
 }
 
-#home h1{
+#home h1 {
   font-size: 69px;
   font-weight: 90;
   margin-bottom: 55px;
   text-align: center;
 }
 
-#home button{
+#home button {
   height: 45px;
   font-size: 21px;
   border: none;
@@ -63,7 +62,7 @@ li:hover {
   margin-bottom: 95px;
 }
 
-#home span{
+#home span {
   margin-left: 13px;
   text-align: left;
   background-color: black;
@@ -72,14 +71,14 @@ li:hover {
   padding: 9px;
 }
 
-#menu{
+#menu {
   width: 100%;
   height: auto;
   background-color: black;
   padding-top: 75px;
 }
 
-#menu h1{
+#menu h1 {
   font-size: 49px;
   font-weight: lighter;
   margin-bottom: 55px;
@@ -106,4 +105,8 @@ li:hover {
 
 #mnu button:hover {
   background-color: rgb(141, 80, 80);
+}
+
+#mnu div{
+  background-color: white;
 }
