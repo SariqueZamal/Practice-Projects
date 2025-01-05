@@ -71,3 +71,10 @@ li:hover {
   font-size: 17px;
   padding: 9px;
 }
+
+#menu{
+  width: 100%;
+  height: auto;
+  background-color: black;
+  padding-top: 75px;
+}
