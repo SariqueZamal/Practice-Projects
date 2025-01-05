@@ -86,3 +86,10 @@ li:hover {
   text-align: center;
   color: white;
 }
+
+#mnu {
+  max-width: 75%;
+  margin: auto;
+  border: 1px solid grey;
+  width: auto;
+}
