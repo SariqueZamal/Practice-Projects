@@ -109,4 +109,9 @@ li:hover {
 
 #mnu div{
   background-color: white;
+  padding: 71px 21px 0 21px;
+}
+
+#mnu h2{
+  display: inline;
 }
