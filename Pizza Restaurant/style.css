@@ -115,3 +115,17 @@ li:hover {
 #mnu h2{
   display: inline;
 }
+
+#price{
+  float: right;
+  background-color: #616161;
+  color: white;
+  padding: 11px;
+  border-radius: 5px;
+}
+
+#mnu h4{
+  color: #757575;
+  font-size: 20.3px;
+  font-weight: 90;
+}
