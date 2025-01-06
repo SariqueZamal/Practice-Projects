@@ -101,6 +101,7 @@ li:hover {
   color: white;
   border: none;
   font-size: 23px;
+  margin-bottom: 39px;
 }
 
 #mnu button:hover {
@@ -109,11 +110,12 @@ li:hover {
 
 #mnu div{
   background-color: white;
-  padding: 71px 21px 0 21px;
+  padding: 39px 21px 0 21px;
 }
 
 #mnu h2{
   display: inline;
+  font-weight: 550;
 }
 
 #price{
