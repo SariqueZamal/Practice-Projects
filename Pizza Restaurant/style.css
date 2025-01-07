@@ -26,8 +26,10 @@ li {
 }
 
 li a {
-  padding-left: 21px;
+  padding-left: 23px;
   text-align: center;
+  font-size: 19px;
+  font-weight: 90;
   color: white;
   text-decoration: none;
 }
