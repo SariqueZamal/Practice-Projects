@@ -10,7 +10,7 @@ nav {
   width: 100%;
   height: 45px;
   background-color: black;
-  opacity: 0.6;
+  opacity: 0.75;
 }
 
 nav:hover {
@@ -78,6 +78,7 @@ li:hover {
   height: auto;
   background-color: black;
   padding-top: 75px;
+  padding-bottom: 99px;
 }
 
 #menu h1 {
@@ -110,17 +111,17 @@ li:hover {
   background-color: rgb(141, 80, 80);
 }
 
-#mnu div{
+#mnu div {
   background-color: white;
   padding: 39px 21px 0 21px;
 }
 
-#mnu h2{
+#mnu h2 {
   display: inline;
   font-weight: 550;
 }
 
-#price{
+#price {
   float: right;
   background-color: #616161;
   color: white;
@@ -133,4 +134,3 @@ li:hover {
   font-size: 18.3px;
   font-weight: 90;
 }
-
