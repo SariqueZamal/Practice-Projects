@@ -64,6 +64,11 @@ li:hover {
   margin-bottom: 95px;
 }
 
+button a{
+  text-decoration: none;
+  color: white;
+}
+
 #home span {
   margin-left: 13px;
   text-align: left;
