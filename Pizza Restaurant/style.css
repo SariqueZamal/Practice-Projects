@@ -139,3 +139,9 @@ button a{
   font-size: 18.3px;
   font-weight: 90;
 }
+
+#about {
+  width: 100%;
+  height: auto;
+  padding-top: 75px;
+}
