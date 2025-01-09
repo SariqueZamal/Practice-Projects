@@ -144,4 +144,10 @@ button a{
   width: 100%;
   height: auto;
   padding-top: 75px;
+  background-color: #df5f56 !important;
+  color: white;
+}
+
+#cinfo {
+  display: flex;
 }
