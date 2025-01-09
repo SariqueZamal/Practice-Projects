@@ -143,9 +143,23 @@ button a{
 #about {
   width: 100%;
   height: auto;
-  padding-top: 75px;
+  padding: 129px;
   background-color: #df5f56 !important;
   color: white;
+}
+
+#about h1 {
+  font-size: 49px;
+  font-weight: 90;
+  margin-bottom: 55px;
+  text-align: center;
+}
+
+#about h4 {
+  font-size: 17px;
+  font-weight: 90;
+  margin-bottom: 35px;
+  text-transform:uppercase;
 }
 
 #cinfo {
