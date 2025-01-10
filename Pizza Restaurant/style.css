@@ -159,19 +159,19 @@ button a {
   font-size: 17px;
   font-weight: 90;
   margin-bottom: 35px;
-  text-transform:uppercase;
+  text-transform: uppercase;
 }
 
 #cinfo {
   display: flex;
 }
 
-#cd{
-  width:50%;
+#cd {
+  width: 50%;
 }
-#ci img{
-  width:21%;
-  float:right;
+#ci img {
+  width: 21%;
+  float: right;
   border-radius: 50%;
 }
 
@@ -196,4 +196,9 @@ button a {
   height: auto;
   background-color: #607d8b!important;
   color: white;
+}
+
+#contact img{
+  width:100%;
+  margin-bottom: 49px;
 }
