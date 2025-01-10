@@ -182,3 +182,18 @@ button a {
   margin-bottom: 39px;
   text-transform: uppercase;
 }
+
+#otime h4{
+  width:50%;
+  float: left;
+  font-size: 16.5px;
+  font-weight: 90;
+  margin-bottom: 23px;
+}
+
+#contact{
+  width: 100%;
+  height: auto;
+  background-color: #607d8b!important;
+  color: white;
+}
