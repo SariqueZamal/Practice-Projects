@@ -174,3 +174,11 @@ button a {
   float:right;
   border-radius: 50%;
 }
+
+#oh h2 {
+  margin-top: 29px;
+  font-size: 22.3px;
+  font-weight: 570;
+  margin-bottom: 39px;
+  text-transform: uppercase;
+}
