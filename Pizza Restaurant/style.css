@@ -216,6 +216,13 @@ button a {
   text-transform: uppercase
 }
 
+#contact h3{
+  font-size: 21.5px;
+  font-weight: 90;
+  margin-top: 59px;
+  text-transform: uppercase
+}
+
 #cc{
   padding: 55px 85px 55px 85px;
 }
