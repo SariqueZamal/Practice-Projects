@@ -200,7 +200,7 @@ button a {
 
 #contact img{
   width:100%;
-  margin-bottom: 49px;
+  margin-bottom: 79px;
 }
 
 #contact h1{
@@ -210,11 +210,12 @@ button a {
 }
 
 #contact h4{
-  font-size: 16.5px;
+  font-size: 17px;
   font-weight: 90;
-  margin-bottom: 23px;
+  margin-bottom: 39px;
+  text-transform: uppercase
 }
 
 #cc{
-  padding: 55px 99px 55px 99px;
+  padding: 55px 85px 55px 85px;
 }
