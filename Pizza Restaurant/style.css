@@ -240,3 +240,18 @@ button a {
   height: 59px;
   font-size: 16.3px;
 }
+
+footer{
+  width: 100%;
+  text-align: center;
+  height: auto;
+  padding: 79px 0 79px 0;
+  background-color: black;
+  color: white;
+  font-size: 19.9px;
+  font-weight: 90;
+}
+
+footer a{
+  color: white;
+}
