@@ -169,10 +169,10 @@
           <b>Reserve</b> a table, ask for today's special or just send us a message:
         </h3>
         <form action="#">
-          <input type="text" placeholder="NAME">
-          <input type="number" placeholder="HOW MANY PEOPLE">
-          <input type="datetime-local" value="2025-01-15T23:59">
-          <input type="text" placeholder="MESSAGE / SPECIAL REQUIREMENTS">
+          <input type="text" placeholder="NAME" required name="name">
+          <input type="number" placeholder="HOW MANY PEOPLE" required name="people">
+          <input type="datetime-local" value="2025-01-15T23:59" required name="date">
+          <input type="text" placeholder="MESSAGE / SPECIAL REQUIREMENTS" required name="message">
           <button type="submit">SEND MESSAGE</button>
         </form>
       </div>
