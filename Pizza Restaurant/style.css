@@ -219,10 +219,18 @@ button a {
 #contact h3{
   font-size: 21.5px;
   font-weight: 90;
-  margin-top: 59px;
+  margin: 59px 0 29px 0;
   text-transform: uppercase
 }
 
 #cc{
   padding: 55px 85px 55px 85px;
+}
+
+#contact input{
+  width:98%;
+  height: 59px;
+  margin-bottom: 19px;
+  font-size: 16.3px;
+  padding-left: 11px;
 }
