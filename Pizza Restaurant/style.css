@@ -234,3 +234,9 @@ button a {
   font-size: 16.3px;
   padding-left: 11px;
 }
+
+#contact button{
+  width:98%;
+  height: 59px;
+  font-size: 16.3px;
+}
