@@ -4,6 +4,10 @@
   font-family: "Amatic SC", "sans-serif";
 }
 
+#profile, #workexp, #education{
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
 #profile{
 width:31.5%;
 height: auto;
@@ -31,8 +35,4 @@ float: left;
 hr{
   width: 95%;
   margin: auto;
-}
-
-#profile, #workexp, #education{
-    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
