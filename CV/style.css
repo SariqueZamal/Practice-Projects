@@ -24,7 +24,7 @@ float: left;
   margin-bottom: 13px;
 }
 
-#profile h5{
+#info h5{
   font-size: 16.1px;
   font-weight: 90;
   padding-left: 13px;
@@ -35,4 +35,29 @@ float: left;
 hr{
   width: 95%;
   margin: auto;
+}
+
+.skill{
+  margin: 17px 0 13px 13px;
+  color: grey;
+}
+
+.skill h2{
+  font-size: 19px;
+  margin-bottom: 11px;
+}
+
+.skill h5{
+  font-size: 16.1px;
+  font-weight: 90;
+  margin-bottom: 11px;
+  color: grey;
+}
+
+#fr, #bn, #db, #ds {
+  width: 90%;
+  height: 17px;
+  border-radius: 15px;
+  margin-bottom: 11px;
+  color: white;
 }
