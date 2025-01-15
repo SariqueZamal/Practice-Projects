@@ -38,13 +38,13 @@ hr{
 }
 
 .skill{
-  margin: 17px 0 13px 13px;
+  margin: 37px 0 13px 13px;
   color: grey;
 }
 
 .skill h2{
   font-size: 19px;
-  margin-bottom: 11px;
+  margin-bottom: 13px;
 }
 
 .skill h5{
@@ -77,4 +77,12 @@ hr{
   font-weight: 90;
   margin-bottom: 11px;
   color: grey;
+}
+
+#en, #od, #ur, #bl {
+  width: 90%;
+  height: 25px;
+  border-radius: 15px;
+  margin-bottom: 11px;
+  color: white;
 }
