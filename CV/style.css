@@ -61,3 +61,20 @@ hr{
   margin-bottom: 11px;
   color: white;
 }
+
+#lang{
+  margin: 51px 0 13px 13px;
+  color: grey;
+}
+
+#lang h2{
+  font-size: 19px;
+  margin-bottom: 27px;
+}
+
+#lang h5{
+  font-size: 16.1px;
+  font-weight: 90;
+  margin-bottom: 11px;
+  color: grey;
+}
