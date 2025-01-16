@@ -129,6 +129,27 @@ hr {
   padding: 0 27px 0 27px;
 }
 
+#education h4 {
+  font-size: 18.3px;
+  margin: 29px 0 11px 0;
+  color: grey;
+}
+
+#education h5 {
+  font-size: 16.3px;
+  font-weight: 90;
+  margin: 11px 0 13px 0;
+}
+
+footer{
+  width:100%;
+  height: auto;
+  text-align: center;
+  background-color: #009688;
+  color: white;
+  padding: 21px 0 21px 0;
+}
+
 #education h2 {
   font-size: 31px;
   margin: 21px 0 0 0;
