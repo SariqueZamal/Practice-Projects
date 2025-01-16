@@ -120,3 +120,17 @@ hr {
   font-weight: 90;
   margin: 11px 0 13px 0;
 }
+
+#education {
+  width: 65.4%;
+  height: auto;
+  margin: 0 13px 13px 0;
+  display: inline-block;
+  padding: 0 27px 0 27px;
+}
+
+#education h2 {
+  font-size: 31px;
+  margin: 21px 0 0 0;
+  color: grey;
+}
