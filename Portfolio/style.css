@@ -12,3 +12,12 @@
 #profile img{
     width:100%;
 }
+
+#menu{
+    position: fixed;
+    top: 21px;
+    right: 13px;
+    width: 4%;
+    height: 9%;
+    background-color: black;
+}
