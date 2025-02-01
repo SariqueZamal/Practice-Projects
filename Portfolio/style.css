@@ -43,3 +43,16 @@ h1{
     font-weight: 540;
     margin-bottom: 19px;
 }
+
+h3{
+    font-size: 16.5px;
+    font-weight: 90;
+}
+
+button{
+    margin-top: 31px;
+    width:25%;
+    height: 43px;
+    border: none;
+    padding: 5px;
+}
