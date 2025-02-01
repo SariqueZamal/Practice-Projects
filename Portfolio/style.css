@@ -7,7 +7,7 @@
 #profile{
     position: fixed;
     width:39%;
-    height: 120vh
+    float: left;
 }
 
 #profile img{
@@ -28,4 +28,12 @@
     height: 15%;
     background-color: grey;
     border-radius: 5px;
+}
+
+main{
+    position: absolute;
+    margin-left: 39%;
+    width:61%;
+    text-align: center;
+    padding-top: 169px;
 }
