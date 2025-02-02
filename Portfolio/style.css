@@ -75,3 +75,22 @@ button:hover {
   margin-bottom: 29px;
 }
 
+#i1 {
+  width: 47%;
+  height: 55%;
+  float: left;
+  margin-bottom: 19px;
+}
+
+#i2 {
+  width: 47%;
+  height: 59%;
+  float: inline-end;
+  margin-right: 19px;
+  margin-bottom: 15px;
+}
+
+#i3 {
+  width: 47%;
+  float: left;
+}
