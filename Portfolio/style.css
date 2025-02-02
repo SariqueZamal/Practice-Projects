@@ -7,7 +7,7 @@
 #profile{
     position: fixed;
     width:39%;
-    float: left;
+    display: inline;
 }
 
 #profile img{
@@ -30,12 +30,14 @@
     border-radius: 5px;
 }
 
-main{
-    position: absolute;
-    margin-left: 39%;
-    width:61%;
+#home{
     text-align: center;
+}
+
+main{
+    width:59%;
     padding-top: 175px;
+    margin-left: 515px;
 }
 
 #home h1{
@@ -59,4 +61,18 @@ button{
 
 button:hover{
     background-color: rgb(215, 214, 214);
+}
+
+#portfolio{
+    margin-top: 165px;
+}
+
+#portfolio h1{
+    color: grey;
+    font-weight: 90;
+    padding-bottom: 27px;
+}
+
+#portfolio img{
+    width:100%
 }
