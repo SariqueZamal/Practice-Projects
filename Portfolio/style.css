@@ -38,13 +38,13 @@ main{
     padding-top: 175px;
 }
 
-h1{
+#home h1{
     font-size: 69px;
     font-weight: 540;
     margin-bottom: 31px;
 }
 
-h3{
+#home h3{
     font-size: 16.5px;
     font-weight: 90;
 }
