@@ -94,3 +94,20 @@ button:hover {
   width: 47%;
   float: left;
 }
+
+#i4 {
+  width: 47%;
+  float: inline-end;
+  margin-right: 19px;
+  margin-bottom: 15px;
+}
+
+#i5 {
+  width: 47%;
+  float: inline-end;
+  margin-right: 19px;
+}
+
+#i6 {
+  width: 47%;
+}
