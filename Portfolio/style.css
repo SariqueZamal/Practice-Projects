@@ -21,6 +21,7 @@
   width: 3.7%;
   height: 7%;
   padding: 9px 7px 3px 7px;
+  background-color: white;
 }
 
 #one,
@@ -69,7 +70,7 @@ button:hover {
   margin-top: 165px;
 }
 
-#portfolio h1 {
+#portfolio h2 {
   color: grey;
   font-weight: 90;
   margin-bottom: 29px;
