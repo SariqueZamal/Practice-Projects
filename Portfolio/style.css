@@ -78,14 +78,12 @@ button:hover {
 
 #i1 {
   width: 47%;
-  height: 55%;
   float: left;
   margin-bottom: 19px;
 }
 
 #i2 {
   width: 47%;
-  height: 59%;
   float: inline-end;
   margin-right: 19px;
   margin-bottom: 15px;
@@ -107,12 +105,18 @@ button:hover {
   width: 47%;
   float: inline-end;
   margin-right: 19px;
+  margin-bottom: 15px;
 }
 
 #i6 {
   width: 47%;
+  float: left;
+  margin-top: 15px;
 }
 
 #i7 {
   width: 47%;
+  float: inline-end;
+  margin-right: 19px;
+  margin-bottom: 65px;
 }
