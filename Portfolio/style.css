@@ -164,3 +164,11 @@ hr{
   font-size: 16.1px;
   margin: 13px 0 19px 0;
 }
+
+#Photography{
+  background-image: linear-gradient(to right, #616161 95%, #9e9e9e 5%);
+  margin-right: 19px;
+  height: 31px;
+  padding: 5px 0 0 330px;
+  color: white;
+}
