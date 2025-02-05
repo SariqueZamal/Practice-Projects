@@ -157,3 +157,10 @@ hr{
   font-size: 25px;
   margin-bottom: 21px;
 }
+
+#skill h6{
+  color: grey;
+  font-weight: 90;
+  font-size: 16.1px;
+  margin: 13px 0 19px 0;
+}
