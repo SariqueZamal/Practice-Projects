@@ -130,7 +130,7 @@ button:hover {
 #about h2{
   color: grey;
   font-weight: 90;
-  font-size: 27px;
+  font-size: 25px;
   margin-bottom: 21px;
 }
 
@@ -145,4 +145,15 @@ hr{
   text-align: justify;
   margin-bottom: 21px;
   margin-top: 19px;
+}
+
+#skill{
+  margin: 17px 0 17px 0;
+}
+
+#skill h2{
+  color: grey;
+  font-weight: 90;
+  font-size: 25px;
+  margin-bottom: 21px;
 }
