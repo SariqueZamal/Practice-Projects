@@ -190,16 +190,18 @@ hr {
 }
 
 #stats {
-  margin: 17px 0 17px 0;
+  margin: 37px 0 17px 0;
   background-color: #616161;
   color: white;
+  margin-right: 19px;
 }
 
 #stats h4 {
   font-weight: 90;
-  font-size: 16.5px;
-  width:15%;
+  font-size: 17px;
+  width:25%;
   height: auto;
   display: inline-block;
-  padding: 9px 15px 9px 9px;
+  text-align: center;
+  padding: 33px 9px 33px 3px;
 }
