@@ -155,20 +155,20 @@ hr{
   color: grey;
   font-weight: 90;
   font-size: 25px;
-  margin-bottom: 21px;
+  margin-bottom: 25px;
 }
 
 #skill h6{
   color: grey;
   font-weight: 90;
-  font-size: 16.1px;
-  margin: 13px 0 19px 0;
+  font-size: 16.5px;
+  margin: 13px 0 15px 0;
 }
 
 #Photography{
-  background-image: linear-gradient(to right, #616161 95%, #9e9e9e 5%);
+  background-image: linear-gradient(to right, #616161 95%, #eeeded 5%);
   margin-right: 19px;
-  height: 31px;
+  height: 29px;
   padding: 5px 0 0 330px;
   color: white;
 }
@@ -176,7 +176,15 @@ hr{
 #web{
   background-image: linear-gradient(to right, #616161 85%, #eeeded 15%);
   margin-right: 19px;
-  height: 31px;
-  padding: 5px 0 0 310px;
+  height: 29px;
+  padding: 5px 0 0 300px;
+  color: white;
+}
+
+#Photoshop{
+  background-image: linear-gradient(to right, #616161 80%, #eeeded 20%);
+  margin-right: 19px;
+  height: 29px;
+  padding: 5px 0 0 270px;
   color: white;
 }
