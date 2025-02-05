@@ -122,23 +122,23 @@ button:hover {
   margin-bottom: 75px;
 }
 
-#about{
+#about {
   display: inline-block;
   margin-right: 19px;
 }
 
-#about h2{
+#about h2 {
   color: grey;
   font-weight: 90;
   font-size: 25px;
   margin-bottom: 21px;
 }
 
-hr{
+hr {
   border: 1px solid rgb(240, 239, 239);
 }
 
-#about h5{
+#about h5 {
   color: rgb(165, 164, 164);
   font-weight: 70;
   font-size: 16.5px;
@@ -147,25 +147,25 @@ hr{
   margin-top: 19px;
 }
 
-#skill{
+#skill {
   margin: 17px 0 17px 0;
 }
 
-#skill h2{
+#skill h2 {
   color: grey;
   font-weight: 90;
   font-size: 25px;
   margin-bottom: 25px;
 }
 
-#skill h6{
+#skill h6 {
   color: grey;
   font-weight: 90;
   font-size: 16.5px;
   margin: 13px 0 15px 0;
 }
 
-#Photography{
+#Photography {
   background-image: linear-gradient(to right, #616161 95%, #eeeded 5%);
   margin-right: 19px;
   height: 29px;
@@ -173,7 +173,7 @@ hr{
   color: white;
 }
 
-#web{
+#web {
   background-image: linear-gradient(to right, #616161 85%, #eeeded 15%);
   margin-right: 19px;
   height: 29px;
@@ -181,10 +181,25 @@ hr{
   color: white;
 }
 
-#Photoshop{
+#Photoshop {
   background-image: linear-gradient(to right, #616161 80%, #eeeded 20%);
   margin-right: 19px;
   height: 29px;
   padding: 5px 0 0 270px;
   color: white;
+}
+
+#stats {
+  margin: 17px 0 17px 0;
+  background-color: #616161;
+  color: white;
+}
+
+#stats h4 {
+  font-weight: 90;
+  font-size: 16.5px;
+  width:15%;
+  height: auto;
+  display: inline-block;
+  padding: 9px 15px 9px 9px;
 }
