@@ -172,3 +172,11 @@ hr{
   padding: 5px 0 0 330px;
   color: white;
 }
+
+#web{
+  background-image: linear-gradient(to right, #616161 85%, #eeeded 15%);
+  margin-right: 19px;
+  height: 31px;
+  padding: 5px 0 0 310px;
+  color: white;
+}
