@@ -56,7 +56,7 @@ main {
 
 button {
   margin-top: 31px;
-  width: 25%;
+  width: 27%;
   height: 43px;
   border: none;
   padding: 5px;
@@ -190,7 +190,7 @@ hr {
 }
 
 #stats {
-  margin: 37px 0 17px 0;
+  margin: 37px 0 3px 0;
   background-color: #616161;
   color: white;
   margin-right: 19px;
@@ -204,4 +204,9 @@ hr {
   display: inline-block;
   text-align: center;
   padding: 33px 9px 33px 3px;
+}
+
+#skill h3{
+  font-size: 16px;
+  font-weight: 90;
 }
