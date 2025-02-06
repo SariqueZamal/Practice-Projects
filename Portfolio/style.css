@@ -224,3 +224,15 @@ hr {
   float: left;
   margin: 0 21px 21px 0;
 }
+
+#reputation h5{
+  font-weight: 90;
+  font-size: 19px;
+  margin: 2px 19px 0 0;
+}
+
+#reputation h6{
+  font-weight: 90;
+  font-size: 15px;
+  color: grey;
+}
