@@ -241,8 +241,16 @@ hr {
   margin: 95px 19px 85px 0;
 }
 
+#price h2 {
+  color: grey;
+  font-weight: 90;
+  font-size: 25px;
+  margin-bottom: 27px;
+}
+
 #prc {
   display: flex;
+  text-align: center;
 }
 
 #basic {
@@ -258,10 +266,11 @@ hr {
 }
 
 #prc h3 {
-  background-color: black;
-  height: 109px;
-  padding-top: 45px;
-  font-size: 25px;
+  background-color: grey;
+  color: white;
+  height: 99px;
+  padding-top: 39px;
+  font-size: 23px;
   font-weight: 90;
 }
 
