@@ -302,8 +302,6 @@ hr {
 }
 
 #prc button {
-  background-color: black;
-  color: white;
   height: 49px;
   border: none;
   font-size: 16.1px;
@@ -313,6 +311,6 @@ hr {
 }
 
 #prc button:hover {
-  background-color: #cdcccc;
-  color: black;
+  background-color:black ;
+  color: white;
 }
