@@ -314,3 +314,17 @@ hr {
   background-color:black ;
   color: white;
 }
+
+#contact h2 {
+  color: grey;
+  font-weight: 90;
+  font-size: 25px;
+  margin-bottom: 23px;
+}
+
+#contact h6{
+  font-size: 16.5px;
+  font-weight: 90;
+  margin-top: 51px;
+  color: grey;
+}
