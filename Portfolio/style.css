@@ -332,3 +332,9 @@ hr {
 #contact img{ 
   float: left;
 } 
+
+#map{
+  margin: 17px 0 47px 0;
+  width:97.3%;
+  filter: grayscale(75%);
+}
