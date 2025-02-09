@@ -363,3 +363,7 @@ footer {
   color: grey;
   font: 19px;
 }
+
+footer a{
+  color: grey;
+}
