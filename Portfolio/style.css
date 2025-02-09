@@ -265,11 +265,11 @@ hr {
   background-color: #e0e0e0;
 }
 
-#basic:hover{
+#basic:hover {
   box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.16), 0 3px 15px 0 rgba(0, 0, 0, 0.12);
 }
 
-#pro:hover{
+#pro:hover {
   box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.16), 0 3px 15px 0 rgba(0, 0, 0, 0.12);
 }
 
@@ -311,7 +311,7 @@ hr {
 }
 
 #prc button:hover {
-  background-color:black ;
+  background-color: black;
   color: white;
 }
 
@@ -322,19 +322,33 @@ hr {
   margin-bottom: 23px;
 }
 
-#contact h6{
-  font-size: 15px;
+#contact h6 {
+  font-size: 15.5px;
   font-weight: 90;
   margin-top: 51px;
   color: grey;
 }
 
-#contact img{ 
+#contact img {
   float: left;
-} 
+}
 
-#map{
+#map {
   margin: 17px 0 47px 0;
-  width:97.3%;
+  width: 97.3%;
   filter: grayscale(75%);
+}
+
+input {
+  margin-top: 15px;
+  width: 97.3%;
+  height: 55px;
+  border: 1px solid grey;
+  padding-left: 15px;
+}
+
+#contact button {
+  width: 23%;
+  margin-top: 15px;
+  margin-bottom: 75px;
 }
