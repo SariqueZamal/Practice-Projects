@@ -352,3 +352,14 @@ input {
   margin-top: 15px;
   margin-bottom: 75px;
 }
+
+footer {
+  width: 61%;
+  margin-left: 492px;
+  height: 145px;
+  text-align: center;
+  padding-top: 65px;
+  background-color: rgb(238, 236, 236);
+  color: grey;
+  font: 19px;
+}
