@@ -3,7 +3,6 @@
     margin: 0;
 }
 
-
 header img{
     max-width: 100%;
     height: auto;
@@ -16,4 +15,14 @@ header img{
     border: 1px solid rgb(208, 208, 208);
     padding: 35px;
     color: white;
+}
+
+#name h2{
+    font-size: 49px;
+    margin-bottom: 11px;
+}
+
+#name h5{
+font-size: 23px;
+font-weight: 90;
 }
