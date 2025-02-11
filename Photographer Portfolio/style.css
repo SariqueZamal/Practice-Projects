@@ -62,3 +62,18 @@ h6:hover{
 #portfolio img{
     margin-bottom: 13px;
 }
+
+#contact {
+  width: 79.5%;
+  margin-left: 129px;
+  margin-bottom: 17px;
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 59px 65px 45px 65px;
+}
+
+#contact h2 {
+  font-size: 25px;
+  font-weight: 90;
+  margin-bottom: 41px;
+}
