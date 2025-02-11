@@ -26,3 +26,17 @@ header img{
 font-size: 23px;
 font-weight: 90;
 }
+
+#nav {
+  width: 21%;
+  position: absolute;
+  margin: -23px 37% 0 39%;
+  text-align: center;
+  background-color: rgb(241, 239, 239);
+  border-radius: 5px;
+}
+
+#nav a {
+  text-decoration: none;
+  color: black;
+}
