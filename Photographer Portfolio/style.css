@@ -53,3 +53,12 @@ header img {
 h6:hover{
     background-color: rgb(222, 220, 220);
 }
+
+#portfolio{
+    margin-top: 25px;
+    text-align: center;
+}
+
+#portfolio img{
+    margin-bottom: 13px;
+}
