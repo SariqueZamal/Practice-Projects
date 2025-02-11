@@ -1,30 +1,30 @@
-*{
-    box-sizing: border-box;
-    margin: 0;
+* {
+  box-sizing: border-box;
+  margin: 0;
 }
 
-header img{
-    max-width: 100%;
-    height: auto;
+header img {
+  max-width: 100%;
+  height: auto;
 }
 
-#name{
-    position: absolute;
-    margin:-345px 37% 0 37%;
-    text-align: center;
-    border: 1px solid rgb(208, 208, 208);
-    padding: 35px;
-    color: white;
+#name {
+  position: absolute;
+  margin: -345px 37% 0 37%;
+  text-align: center;
+  border: 1px solid rgb(208, 208, 208);
+  padding: 35px;
+  color: white;
 }
 
-#name h2{
-    font-size: 49px;
-    margin-bottom: 11px;
+#name h2 {
+  font-size: 49px;
+  margin-bottom: 11px;
 }
 
-#name h5{
-font-size: 23px;
-font-weight: 90;
+#name h5 {
+  font-size: 23px;
+  font-weight: 90;
 }
 
 #nav {
@@ -39,4 +39,17 @@ font-weight: 90;
 #nav a {
   text-decoration: none;
   color: black;
+}
+
+#nav h6 {
+  display: inline;
+  float: left;
+  font-size: 19px;
+  font-weight: 90;
+  padding: 7px;
+  width:39.1%;
+}
+
+h6:hover{
+    background-color: rgb(222, 220, 220);
 }
